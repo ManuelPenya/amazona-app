@@ -24,3 +24,4 @@ yarn-error.log*
 
 #src
 /frontend/public/images
+frontend/package-lock.json
